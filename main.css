@@ -1,0 +1,36 @@
+
+body{
+    margin:0;
+    
+}
+
+.content{
+    margin-left: 20px;
+}
+.contain{
+    padding: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contain div h2{
+    text-align: center;
+}
+.Photo{
+    margin:-16px;
+    padding:16px;
+    background-color: rgb(48, 45, 45);
+    color:white;
+    text-align: center;
+
+}
+table,th,td{
+    border: 1px solid;
+    table-layout: fixed;
+    width: 100%;
+}
+th,td{
+    padding: 5px;
+    text-align: center;
+}
+.textcolor{
+    color:royalblue;
+}
